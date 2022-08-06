@@ -3,7 +3,6 @@ sfsdfsdfsd
 sfsdfds 
 sfsfs 
 e
-<<<<<<< HEAD
 fisr.txt
 werw
 werewtw
@@ -15,10 +14,6 @@ wetret
 wtwyw
 wtet
 wtery
-
-
-=======
->>>>>>> 3cfcf6d4e7fd9e47ac71d7eeefcfd131de1b3b66
 ewrewrewr
 w
 r
